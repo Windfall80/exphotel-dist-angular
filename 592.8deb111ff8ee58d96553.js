@@ -1,0 +1,1 @@
+(self.webpackChunkexph_app=self.webpackChunkexph_app||[]).push([[592],{5917:(e,t,r)=>{"use strict";r.d(t,{W:()=>p});var n=r(5366);let p=(()=>{class e{transform(e,t=25,r=!1,n="..."){return r&&(t=e.substr(0,t).lastIndexOf(" ")),e.length>t?e.substr(0,t)+n:e}}return e.\u0275fac=function(t){return new(t||e)},e.\u0275pipe=n.Yjl({name:"truncate",type:e,pure:!0}),e})()}}]);
